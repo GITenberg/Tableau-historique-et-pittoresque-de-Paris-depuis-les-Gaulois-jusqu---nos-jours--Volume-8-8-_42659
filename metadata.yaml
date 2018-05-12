@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40278
     wikipedia: http://fr.wikipedia.org/wiki/Jacques_Bins_de_Saint-Victor
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42659#Tableau-historique-et-pittoresque-de-Paris-depuis-les-Gaulois-jusqu---nos-jours--Volume-8-8-
 gutenberg_bookshelf: FR Villes
 gutenberg_issued: '2013-05-07'
 gutenberg_type: Text
